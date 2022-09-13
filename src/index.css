@@ -6,16 +6,16 @@
 }
 
 body {
-    background-color: #000;
+    background-color: #252537;
     color: #FFF;
 }
 
 a {
     text-decoration: none;
-    color: #F7D354;
+    color: #F39256;
     transition: .5s;
 }
 
 a:hover {
-    color: #B8930C;
+    color: #9b5628;
 }
