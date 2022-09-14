@@ -23,17 +23,19 @@ React-icons
 
 2 - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
 
-3 - Digite git clone https://github.com/JeanSouza911/aula_react_useState para clonar o repositório.
+3 - Digite git clone https://github.com/JeanSouza911/movies_query para clonar o repositório.
 
 4 - Pressione Enter para criar seu clone local.
 
-5 - Digite cd aula_react_useState e pressione Enter para acessar o diretório do projeto.
+5 - Digite cd movies_query e pressione Enter para acessar o diretório do projeto.
 
 6 - Digite npm install e pressione Enter para instalar as dependências do projeto.
 
 7 - Digite npm start e pressione Enter para inicializar a aplicação.
 
 ## Layout:
+
+![Web](https://github.com/JeanSouza911/movies_query/blob/master/src/img/movies_query.png)
 
 # Autor:
 
