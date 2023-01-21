@@ -60,3 +60,26 @@
     color: #F39256;
 }
 
+/*Mobile*/
+@media (max-width: 450px) {
+  .movies-container {
+    flex-direction: column;
+
+  }
+  
+  .movies-container div{
+    width: 100%;
+  }
+
+  .movies-container div a {
+    width: auto;
+  }
+
+  .movie-card h2 {
+    font-size: 1.5em;
+  }
+
+  .container .title {
+    font-size: 2.2em;
+  }
+}

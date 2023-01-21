@@ -40,3 +40,12 @@
     background-color: transparent;
     color: #FFFFFF;
 }
+
+/*Mobile*/
+@media (max-width: 450px) {
+    #navbar {
+        justify-content: center;
+        gap: 0.5em;
+        font-size: 1em;
+    }
+}
