@@ -61,7 +61,7 @@
 }
 
 /*Mobile*/
-@media (max-width: 450px) {
+@media (max-width: 425px) {
   .movies-container {
     flex-direction: column;
 

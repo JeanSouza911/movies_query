@@ -42,10 +42,12 @@
 }
 
 /*Mobile*/
-@media (max-width: 450px) {
+@media (max-width: 425px) {
     #navbar {
         justify-content: center;
         gap: 0.5em;
         font-size: 1em;
     }
+
+    
 }

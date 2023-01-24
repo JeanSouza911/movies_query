@@ -56,3 +56,16 @@
 .description p {
     line-height: 1.4rem;
 }
+
+/* Mobile */
+@media (max-width: 425px) {
+    .movie-page .movie-card img,
+    .movie-page .movie-card h2,
+    .movie-page .movie-card p {
+        width: 100%;
+    }
+
+    .movie-page {
+        max-width: 400px;
+    }
+}
